@@ -1,0 +1,21 @@
+{
+    "name": "Your Name",
+    "about": "Brief summary about yourself",
+    "experience": [
+        {
+            "position": "Job Title",
+            "company": "Company Name",
+            "dates": "Start Date - End Date",
+            "description": "Description of your responsibilities"
+        }
+        // Add more experience entries as needed
+    ],
+    "education": [
+        {
+            "degree": "Degree Name",
+            "university": "University Name",
+            "dates": "Start Date - End Date"
+        }
+        // Add more education entries as needed
+    ]
+}
